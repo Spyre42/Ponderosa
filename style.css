@@ -1,0 +1,31 @@
+body{ 
+    font-size: 18px;
+    color: white;
+    img {height: 400px;}
+  
+h1{
+    font-size: 50px;
+    font-stretch: expanded;
+}
+
+
+div.column {
+    float: right;
+   height: 500px;
+  width: 38%;
+  
+  
+  }
+  
+  div.column1 {
+    float: right;
+    width:100%;
+    margin-top:2%;
+
+    height:500px;;
+    }
+
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;}
